@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_a_la_une"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/a_la_une" />
+        <item
+            android:id="@+id/menu_lifestyle"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/lifestyle" />
+    </group>
+
+</menu>
